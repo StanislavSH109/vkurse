@@ -1,4 +1,4 @@
-<h1 align="center"><i>I am laying out the Vkurse layout page using the rules of flexible, adapted layout.</i></h1>
+<h1 align="center"><i>I am laying out the Vkurse layout page using the rules of flexible, adapted layout.</i> :desktop_computer:</h1>
 
 <h2 align="center">Vkurse - Desktop(1440 x 1671)</h2>
 <p align="center">
