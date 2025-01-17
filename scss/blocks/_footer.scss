@@ -57,6 +57,7 @@
 
   &__nav-item {
     margin: 0 0 6px;
+    break-inside: avoid;
 
     @include vp-1023 {
       width: 45%;

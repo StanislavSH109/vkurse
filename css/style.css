@@ -583,6 +583,8 @@ a {
 }
 .footer__nav-item {
   margin: 0 0 6px;
+  -moz-column-break-inside: avoid;
+       break-inside: avoid;
 }
 @media (max-width: 1023px) {
   .footer__nav-item {
@@ -843,6 +845,11 @@ a {
 @media (max-width: 1023px) {
   .news__list-item {
     width: calc(50% - 24px);
+  }
+}
+@media (max-width: 767px) {
+  .news__list-item {
+    width: 100%;
   }
 }
 .news__connection {
